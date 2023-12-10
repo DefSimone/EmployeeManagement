@@ -1,2 +1,2 @@
 # EmployeeManagement
-HumanResourceManagementSystem: A comprehensive Python based application for managing employee details in an organization.
+EmployeeManagement: A comprehensive Python based application for managing employee details in an organization.
